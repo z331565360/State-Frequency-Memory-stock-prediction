@@ -36,7 +36,7 @@ To visualize the predicted results:
     python train.py --step=3 --hidden_dim=50 --freq_dim=10 --niter=4000 --learning_rate=0.01
     
 ## Note
-The codes are expired for Keras >= 2.0.0. Codes for latest version of Keras will be released.
+The codes are expired for Keras >= 2.0.0. Codes for the latest version of Keras will be released.
 
     
 
